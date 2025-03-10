@@ -1,0 +1,53 @@
+{
+  "navigation": {
+    "home": "Home",
+    "games": "Games",
+    "models": "3D Models",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Welcome!",
+    "intro": "I am an independent game developer and 3D modeler. I enjoy developing creative projects and learning new technologies.",
+    "skills": {
+      "gamedev": {
+        "title": "Game Development",
+        "description": "Game development experience with Unity"
+      },
+      "modeling": {
+        "title": "3D Modeling",
+        "description": "3D modeling with Blender"
+      }
+    }
+  },
+  "games": {
+    "title": "My Games",
+    "comingSoon": "Coming Soon",
+    "description": "I'm working on my game projects. They will be here very soon!",
+    "status": "In Development",
+    "technologies": ["Unity", "C#"],
+    "features": ["2D Games", "3D Games", "Mobile Games"],
+    "updateText": "Follow me for updates on upcoming projects"
+  },
+  "models": {
+    "title": "My 3D Models",
+    "intro": "My passion for making games has led me to make my own models. I am learning how to make in-game models with Blender. Soon this page will include models and projects I have made !",
+    "comingSoon": "Coming Soon",
+    "description": "I'm working on my 3D modeling projects. They will be here very soon!",
+    "status": "In Development",
+    "technologies": ["Blender"],
+    "features": ["Characters", "Environment Design", "Props"],
+    "quote": "The best ideas need to be shared.",
+    "contact": "I'm always here for your questions!"
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "You can contact me for new projects, collaborations or any questions. I will try to respond to your messages as soon as possible.",
+    "info": "Contact Information",
+    "social": "Social Media",
+    "quote": "The best ideas need to be shared.",
+    "available": "I'm always here for your questions!"
+  },
+  "about": {
+    "title": "About Me"
+  }
+}

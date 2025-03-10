@@ -1,0 +1,53 @@
+{
+  "navigation": {
+    "home": "Ana Sayfa",
+    "games": "Oyunlarım",
+    "models": "3D Modellerim",
+    "contact": "İletişim"
+  },
+  "home": {
+    "welcome": "Hoş Geldiniz!",
+    "intro": "Bağımsız bir oyun geliştiricisi ve 3D modelleyiciyim. Yaratıcı projeler geliştirmekten ve yeni teknolojiler öğrenmekten keyif alıyorum.",
+    "skills": {
+      "gamedev": {
+        "title": "Oyun Geliştirme",
+        "description": "Unity ile oyun geliştirme deneyimi"
+      },
+      "modeling": {
+        "title": "3D Modelleme",
+        "description": "Blender ile 3D modelleme"
+      }
+    }
+  },
+  "games": {
+    "title": "Oyunlarım",
+    "comingSoon": "Yakında",
+    "description": "Oyun projeleri üzerinde çalışıyorum. Çok yakında burada olacaklar!",
+    "status": "Geliştirme Aşamasında",
+    "technologies": ["Unity", "C#"],
+    "features": ["2D Oyunlar", "3D Oyunlar", "Mobil Oyunlar"],
+    "updateText": "Gelecek projelerden haberdar olmak için beni takip edin"
+  },
+  "models": {
+    "title": "3D Modellerim",
+    "intro": "Oyun yapma tutkum beni kendi modellerimi yapmaya yöneltti. Blender ile oyun içi modelleri yapmayı öğreniyorum . Yakında bu sayfa, benim yaptığım modelleri ve projeleri içerecek !",
+    "comingSoon": "Yakında",
+    "description": "3D modelleme projelerim üzerinde çalışıyorum. Çok yakında burada olacaklar!",
+    "status": "Geliştirme Aşamasında",
+    "technologies": ["Blender"],
+    "features": ["Karakterler", "Çevre Tasarımı", "Props"],
+    "quote": "En iyi fikirlerin bile paylaşılmaya ihtiyacı vardır.",
+    "contact": "Sorularınız için her zaman buradayım!"
+  },
+  "contact": {
+    "title": "İletişim",
+    "intro": "Yeni projeler, iş birlikleri veya herhangi bir soru için benimle iletişime geçebilirsiniz. Mesajlarınıza en kısa sürede dönüş yapmaya çalışacağım.",
+    "info": "İletişim Bilgileri",
+    "social": "Sosyal Medya",
+    "quote": "En iyi fikirlerin bile paylaşılmaya ihtiyacı vardır.",
+    "available": "Sorularınız için her zaman buradayım!"
+  },
+  "about": {
+    "title": "Hakkımda"
+  }
+}
