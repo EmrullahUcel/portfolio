@@ -48,6 +48,25 @@
     "available": "Sorularınız için her zaman buradayım!"
   },
   "about": {
-    "title": "Hakkımda"
+    "title": "Hakkımda",
+    "intro": "Merhaba! Ben bir oyun geliştiricisi ve 3D modelleyiciyim. 2022 yılında yazılım dünyasına web geliştirici olarak adım attım. Başlangıçta HTML, CSS ve JavaScript ile web siteleri oluştururken, zamanla interaktif dünyalar yaratmaya olan ilgimi keşfettim. Bu tutku beni oyun geliştirme ve 3D modelleme alanına yönlendirdi. Şu anda bağımsız bir oyun geliştiricisi olarak Unity ve C# kullanarak oyunlar tasarlıyor, Blender ile 3D modeller oluşturuyorum. Her yeni proje, hem öğrenmek hem de kendimi geliştirmek için heyecan verici bir yolculuk.",
+    "skills": {
+      "title": "Yeteneklerim",
+      "list": ["Unity ile oyun geliştirme", "Blender ile 3D modelleme", "C# programlama", "React ile web geliştirme"]
+    },
+    "experience": {
+      "title": "Deneyim",
+      "indie": {
+        "title": "Indie Oyun Geliştirici",
+        "period": "2024 - Günümüz"
+      }
+    },
+    "education": {
+      "title": "Eğitim",
+      "university": {
+        "name": "Trakya Üniversitesi Besyo",
+        "period": ""
+      }
+    }
   }
 }
